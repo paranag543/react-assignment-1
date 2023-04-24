@@ -1,0 +1,32 @@
+.navBar {
+  background-color: #3367d6;
+  display: flex;
+  padding: 10px 30px;
+}
+
+.search-box {
+  background-color: #2850a7;
+  margin: auto;
+  height: 40px;
+  width: 400px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 400px;
+  height: 40px;
+  border: 1px solid #6697ff;
+  border-radius: 5px;
+}
+
+.search-input {
+  background-color: transparent;
+  color: #ffffff;
+  border: 0px;
+  outline: none;
+}
+
+.no-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
